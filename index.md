@@ -6,6 +6,9 @@ hero:
   name: "Muntaser Muttaqi"
   text: "Full-stack Developer"
   tagline: My great project tagline
+  image:
+    src: "/hero-image-1.png"
+    alt: "Muntaser Muttaqi"
   actions:
     - theme: brand
       text: Markdown Examples
@@ -22,4 +25,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
