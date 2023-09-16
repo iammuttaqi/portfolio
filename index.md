@@ -12,17 +12,11 @@ hero:
     alt: "Muntaser Muttaqi"
   actions:
     - theme: brand
-      text: Portfolio
-      link: /portfolio
+      text: Hire Me
+      link: "https://www.fiverr.com/iammuttaqi"
     - theme: alt
-      text: Skills
-      link: /skills
-    - theme: alt
-      text: Experience
-      link: /experience
-    - theme: alt
-      text: Resume/CV
-      link: /resume
+      text: Email Me
+      link: "mailto:muntasermuttaqi@gmail.com"
 
 features:
   - icon:

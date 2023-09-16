@@ -31,6 +31,31 @@ export default defineConfig({
       },
     ],
     ["link", { rel: "manifest", href: "/site.webmanifest" }],
+    [
+      "meta",
+      { property: "og:site_name", content: "Muntaser Muttaqi Portfolio" },
+    ],
+    [
+      "meta",
+      {
+        property: "keywords",
+        content:
+          "muntaser muttaqi, muttaqi, web developer, full stack developer, web developer bangladesh, laravel, livewire, inertiajs, vuejs, tailwindcss, laravel bangladesh",
+      },
+    ],
+    ["meta", { property: "author", content: "Muntaser Muttaqi" }],
+    ["meta", { property: "og:title", content: "Muntaser Muttaqi" }],
+    ["meta", { property: "og:type", content: "Portfolio" }],
+    ["meta", { property: "og:url", content: "https://iammuttaqi.vercel.app" }],
+    ["meta", { property: "og:image", content: "/hero-image-1.png" }],
+    ["meta", { property: "twitter:title", content: "Muntaser Muttaqi" }],
+    [
+      "meta",
+      { property: "twitter:description", content: "Full-stack Developer" },
+    ],
+    ["meta", { property: "twitter:image", content: "/hero-image-1.png" }],
+    ["meta", { property: "twitter:card", content: "summary_large_image" }],
+    ["meta", { property: "twitter:site", content: "@iammuttaqi" }],
   ],
   title: "Muntaser Muttaqi",
   description: "Full-stack Developer",
@@ -48,7 +73,7 @@ export default defineConfig({
       { text: "Skills", link: "/skills" },
       { text: "Contact", link: "/contact" },
       { text: "Testimonials", link: "/testimonials" },
-      { text: "Resume/CV", link: "/resume" },
+      { text: "Resume/CV", link: "https://iammuttaqi.github.io" },
     ],
 
     sidebar: [],
