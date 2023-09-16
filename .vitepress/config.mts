@@ -71,7 +71,6 @@ export default defineConfig({
       { text: "About Me", link: "/about" },
       { text: "Experience", link: "/experience" },
       { text: "Skills", link: "/skills" },
-      { text: "Contact", link: "/contact" },
       { text: "Testimonials", link: "/testimonials" },
       { text: "Resume/CV", link: "https://iammuttaqi.github.io" },
     ],

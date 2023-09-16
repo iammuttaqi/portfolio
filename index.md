@@ -2,7 +2,7 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
-title: "Muttaqi"
+title: "Muntaser Muttaqi"
 hero:
   name: "Muntaser Muttaqi"
   text: ""
