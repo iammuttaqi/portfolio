@@ -5,7 +5,7 @@ const default_image = 'https://assets-prod.sumo.prod.webservices.mozgcp.net/stat
 const members = [
   {
     avatar: default_image,
-    name: 'Evan You, CEO at Gymscanner',
+    name: 'Randy Ali, CEO at Gymscanner',
     title: '"This man is a true genius. Brilliant work."',
   },
   {
